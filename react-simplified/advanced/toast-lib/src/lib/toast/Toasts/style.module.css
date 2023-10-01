@@ -1,0 +1,40 @@
+.allKinds {
+    position: absolute;
+    padding: 0.5rem;
+    max-width: 200px;
+    word-wrap: break-word;
+    word-break: break-all;
+}
+
+.topLeft {
+    top: 0;
+    left: 0;
+}
+
+.topCenter {
+    top: 0;
+    left: 50%;
+    translate: -50%;
+}
+
+.topRight {
+    top: 0;
+    right: 0;
+}
+
+
+.bottomLeft {
+    bottom: 0;
+    left: 0;
+}
+
+.bottomCenter {
+    bottom: 0;
+    left: 50%;
+    translate: -50%;
+}
+
+.bottomRight {
+    bottom: 0;
+    right: 0;
+}
